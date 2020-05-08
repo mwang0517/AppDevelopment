@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Stop" android:id="@+id/Stop"></item>
+    <item android:title="Continue" android:id="@+id/Continue"></item>
+
+
+</menu>
